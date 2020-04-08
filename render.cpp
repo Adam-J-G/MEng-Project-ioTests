@@ -1,3 +1,6 @@
+/***** Input/Output tests for MEng Project *****/
+// Written by Adam Gauton (combination and adaptation of Bela examples)
+
 #include <Bela.h>
 #include <cmath>
 #include <thread>
